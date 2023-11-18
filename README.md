@@ -3,13 +3,13 @@
 ## Introduction
 This project harnesses the capabilities of Convolutional Neural Networks (CNNs), specifically focusing on the EfficientNet architecture, to effectively classify images into two categories: buildings and forests. The primary application of this technology lies in resource management in arid regions, like Saudi Arabia, where distinguishing between vegetation and urban areas is crucial for sustainable development and environmental preservation. By fine-tuning pre-trained CNN models, this project addresses challenges related to limited data availability, computational resources, and time constraints, making it a viable solution for real-world environmental monitoring and management.
 ## Software Requirements
-	Python: Version 3.7 or above.
-	PyTorch: For neural network modeling and training.
-	Torchvision: For image processing and model architectures.
-	Matplotlib: For data visualization and image plotting.
-	Pandas: For data manipulation and analysis.
-	Numpy: For numerical computations.
-	Jupyter Notebook: For interactive development and testing.
+**Python:** Version 3.7 or above.
+**PyTorch:** For neural network modeling and training.
+**Torchvision:** For image processing and model architectures.
+**Matplotlib:** For data visualization and image plotting.
+**Pandas:** For data manipulation and analysis.
+**Numpy:** For numerical computations.
+**Jupyter Notebook:** For interactive development and testing.
 ## Hardware Requirements
 	CPU: Minimum Intel i5 or equivalent for adequate computational power.
 	GPU: CUDA-capable GPU is required for efficient model training.
